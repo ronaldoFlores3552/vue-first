@@ -1,3 +1,5 @@
+# link para guia de vue 
+https://bluuweb.github.io/vue-udemy/30-01-fundamentos/#directivas
 # vue-first
 
 This template should help get you started developing with Vue 3 in Vite.

@@ -26,7 +26,8 @@ coverage
 *.njsproj
 *.sln
 *.sw?
-src
+#src
 public
 .vscode
 
+#link para guia de vue https://bluuweb.github.io/vue-udemy/30-01-fundamentos/#directivas
